@@ -6,7 +6,7 @@
 
 * Select your language
 
-* Click on `Development (trunk)` or `table (latest release)`
+* Click on `Development (trunk)` or `stable (latest release)`
 
 * To export the translation files :
   - select `Portable Object Message Catalog (.po/pot)` and click on `export`
